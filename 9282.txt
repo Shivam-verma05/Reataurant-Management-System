@@ -1,0 +1,16 @@
+
+Customer Name : Shivam Verma
+Customer Contact : 6388542776
+Customer Name : 2023-06-04 18:35:08.920848
+Product Name		   Quantity		PerCost		 Total
+==============================================================================
+Pasta			        5		     Rs.60		 Rs.300
+Chicken Chilly			2		     Rs.280		 Rs.560
+Samosa			        7		     Rs.15		 Rs.105
+Chocolate Shake			3		     Rs.50		 Rs.150
+Masala Maggie			2		     Rs.40		 Rs.80
+==============================================================================
+
+				      Grand Total : 1195
+
+==============================================================================
